@@ -63,24 +63,24 @@ public class SortedListFragment extends Fragment {
         mArticleList.add(new Article(22, R.drawable.p, R.drawable.p_img));
         mArticleList.add(new Article(23, R.drawable.r, R.drawable.r_img));
         mArticleList.add(new Article(24, R.drawable.s, R.drawable.s_img));
-        mArticleList.add(new Article(25, R.drawable.a, R.drawable.a_img));
-        mArticleList.add(new Article(26, R.drawable.a2, R.drawable.a2_img));
-        mArticleList.add(new Article(27, R.drawable.b, R.drawable.b_img));
-        mArticleList.add(new Article(28, R.drawable.v, R.drawable.v_img));
-        mArticleList.add(new Article(29, R.drawable.g, R.drawable.g_img));
-        mArticleList.add(new Article(30, R.drawable.g2, R.drawable.g2_img));
-        mArticleList.add(new Article(31, R.drawable.d, R.drawable.d_img));
-        mArticleList.add(new Article(32, R.drawable.e, R.drawable.e_img));
-        mArticleList.add(new Article(33, R.drawable.e2, R.drawable.e2_img));
-        mArticleList.add(new Article(34, R.drawable.zh, R.drawable.zh_img));
-        mArticleList.add(new Article(35, R.drawable.z, R.drawable.z_img));
-        mArticleList.add(new Article(36, R.drawable.i, R.drawable.i_img));
-        mArticleList.add(new Article(37, R.drawable.i2, R.drawable.i2_img));
-        mArticleList.add(new Article(38, R.drawable.k, R.drawable.k_img));
-        mArticleList.add(new Article(39, R.drawable.k2, R.drawable.k2_img));
-        mArticleList.add(new Article(40, R.drawable.l, R.drawable.l_img));
-        mArticleList.add(new Article(41, R.drawable.m, R.drawable.m_img));
-        mArticleList.add(new Article(42, R.drawable.n, R.drawable.n_img));
+        mArticleList.add(new Article(25, R.drawable.t, R.drawable.t_img));
+        mArticleList.add(new Article(26, R.drawable.u, R.drawable.u_img));
+        mArticleList.add(new Article(27, R.drawable.u2, R.drawable.u2_img));
+        mArticleList.add(new Article(28, R.drawable.u3, R.drawable.u3_img));
+        mArticleList.add(new Article(29, R.drawable.f, R.drawable.g_img));
+        mArticleList.add(new Article(30, R.drawable.h, R.drawable.g2_img));
+        mArticleList.add(new Article(31, R.drawable.h2, R.drawable.d_img));
+        mArticleList.add(new Article(32, R.drawable.c, R.drawable.e_img));
+        mArticleList.add(new Article(33, R.drawable.ch, R.drawable.e2_img));
+        mArticleList.add(new Article(34, R.drawable.sh, R.drawable.zh_img));
+        mArticleList.add(new Article(35, R.drawable.sh2, R.drawable.z_img));
+        mArticleList.add(new Article(36, R.drawable.qq, R.drawable.i_img));
+        mArticleList.add(new Article(37, R.drawable.qw, R.drawable.i2_img));
+        mArticleList.add(new Article(38, R.drawable.i3, R.drawable.k_img));
+        mArticleList.add(new Article(39, R.drawable.qe, R.drawable.k2_img));
+        mArticleList.add(new Article(40, R.drawable.e3, R.drawable.l_img));
+        mArticleList.add(new Article(41, R.drawable.yu, R.drawable.m_img));
+        mArticleList.add(new Article(42, R.drawable.ya, R.drawable.n_img));
     }
 
     @Override public void onDestroyView() {
