@@ -75,12 +75,12 @@ public class SortedListFragment extends Fragment {
         mArticleList.add(new Article(34, R.drawable.sh, R.drawable.sh_img));
         mArticleList.add(new Article(35, R.drawable.sh2, R.drawable.sh2_img));
         mArticleList.add(new Article(36, R.drawable.qq, R.drawable.qq_img));
-        mArticleList.add(new Article(37, R.drawable.qw, R.drawable.i2_img));
-        mArticleList.add(new Article(38, R.drawable.i3, R.drawable.k_img));
-        mArticleList.add(new Article(39, R.drawable.qe, R.drawable.k2_img));
-        mArticleList.add(new Article(40, R.drawable.e3, R.drawable.l_img));
-        mArticleList.add(new Article(41, R.drawable.yu, R.drawable.m_img));
-        mArticleList.add(new Article(42, R.drawable.ya, R.drawable.n_img));
+        mArticleList.add(new Article(37, R.drawable.qw, R.drawable.qw_img));
+        mArticleList.add(new Article(38, R.drawable.i3, R.drawable.i3_img));
+        mArticleList.add(new Article(39, R.drawable.qe, R.drawable.qe_img));
+        mArticleList.add(new Article(40, R.drawable.e3, R.drawable.e3_img));
+        mArticleList.add(new Article(41, R.drawable.yu, R.drawable.yu_img));
+        mArticleList.add(new Article(42, R.drawable.ya, R.drawable.ya_img));
     }
 
     @Override public void onDestroyView() {
